@@ -1,0 +1,3 @@
+1. As a student, I can upload an image or use one of the sample images to perform basic point operations such as intensity, color, and histogram operations, and be able to change parameters via sliders and view the final result in a window
+2. As a teacher, I would like to show my students how point operations affect the output in real-time and be able to view summary statistics such as histogram and constrast all along.
+3. As a user, I would like to be able to perform histogram operations directly from the histogram viewer on the site. (equalization and matching)
