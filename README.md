@@ -26,3 +26,5 @@ The roadmap is split into several topics in Computer Vision that may require a s
         2. Toggles summary statistics (global constrast, histogram etc.)
     2. Tree/Roadmaps for specializations
     3. In-site resources to books, papers, and further studies
+
+If you would like to contribute, feel free to submit a PR.
